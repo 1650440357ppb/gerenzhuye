@@ -1999,8 +1999,8 @@ form.contact_form {
 	}
 	.agileabout-grid-2-image {
 		width: 100%;
-		left: -5px;
-		top: 0;
+		left: 45px;
+		top: 8px;
 	}
 	.agileabout-grid-3 h3 {
 		width: 40%;
@@ -2145,9 +2145,9 @@ form.contact_form {
 		margin: 150px 0;
 	}
 	.agileabout-grid-2-image {
-		width: 50%;
-		left: 25%;
-		top: -160px;
+		width: 70%;
+		left: 26%;
+		top: -120px;
 	}
 	.agileabout-grid-3 h3 {
 		width: 28%;
