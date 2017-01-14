@@ -1390,6 +1390,7 @@ form.contact_form {
 		width: 33.3%;
 		float: left;
 		padding: 0;
+		padding-left: 50px;
 	}
 	.agileabout-grid-2-image {
 		left: 10%;
